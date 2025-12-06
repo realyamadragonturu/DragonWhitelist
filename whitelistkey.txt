@@ -1,2 +1,2 @@
 "whitelistkey.txt","discordid: undefined"
-"b0EZgvNHBi2xFkFHNd5mbPx3SUs3JmbV","discordid: "
+"b0EZgvNHBi2xFkFHNd5mbPx3SUs3JmbV","discordid: 1242359274458452039"
