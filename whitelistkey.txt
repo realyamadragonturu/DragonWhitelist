@@ -1,4 +1,4 @@
 "AXuRHpPDsj3hTPD9cZqhkyT0mhH8Ee9G","discordid: ","hwid: expiry: lifetime"
-"x6tHQ7mKkPNA28ctQJsv5tU12hgu0F2v","discordid: 1242359274458452039","hwid: expiry: lifetime"
+"x6tHQ7mKkPNA28ctQJsv5tU12hgu0F2v","discordid: 1242359274458452039"
 "wFgSMzwXKAGPqKx8onGcic2jNyVlCG6g","discordid: ","hwid: expiry: lifetime"
 "CVBgHvtGivTPrdBt4WKbTaVEj9hm65CH","discordid: "
