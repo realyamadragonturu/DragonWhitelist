@@ -1,1 +1,2 @@
-whitelistkey.txt
+"whitelistkey.txt","discordid: undefined"
+"b0EZgvNHBi2xFkFHNd5mbPx3SUs3JmbV","discordid: "
