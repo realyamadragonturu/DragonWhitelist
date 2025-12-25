@@ -1,2 +1,6 @@
 "E58P8XIjNTyNS44BfhixEivMxU93SHrt","discordid: 1242359274458452039","hwid: expiry: lifetime","expiry: lifetime"
 "naBxG1Y9JtmIpURYWmnrU4C4Xg2DNd5T","discordid: "
+"1vcW9a79Qh6kYllEXOeNWVCtpOGJu1aS","discordid: "
+"FkUufY81o1lYBIISOSXT3nitftHAXwJq","discordid: "
+"yQhTrMerNX5rNW5iEbpU8qzgFFJNBg7J","discordid: "
+"Amgw3EKqGTQxlaVoIX9GX4VBQ9tZ8UPQ","discordid: "
