@@ -9,5 +9,5 @@
 "W4KO70CR","expiry: 1767086278472","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766827078472"
 "D135B4GL","expiry: 1767086299726","keyDuration: 1day","maxUses: 1","currentUses: 1","created: 1766827099726","usedBy: 1242359274458452039","usedAt: 1766827115878"
 "AB2O1CZ0","expiry: 1767086299726","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766827099726"
-"AU113JXP","expiry: 1767086299726","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766827099726"
+"AU113JXP","expiry: 1767086299726","keyDuration: 1day","maxUses: 1","currentUses: 1","created: 1766827099726","usedBy: 1242359274458452039","usedAt: 1766827134527"
 "DTUXXC0J","expiry: 1767086299726","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766827099726"
