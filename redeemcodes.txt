@@ -10,6 +10,6 @@
 "O79YZTO0","expiry: used: false","keyDuration: maxUses: 1","maxUses: currentUses: 0","currentUses: 0"
 "V1RK04QE","expiry: used: true","keyDuration: by: 1242359274458452039","maxUses: at: 1766766152146","currentUses: key: t9ibhxFyQeWQJWCEaKxrpxfgZGidP7BC"
 "B3T82BYO","expiry: used: false","keyDuration: maxUses: 1","maxUses: currentUses: 0","currentUses: 0"
-"KRDWDZMX","expiry: 1766996846128","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766824046128"
+"KRDWDZMX","expiry: 1766996846128","keyDuration: 1day","maxUses: 1","currentUses: 1","created: 1766824046128","usedBy: 1242359274458452039","usedAt: 1766824167892"
 "UEQNZ9PB","expiry: 1766996846128","keyDuration: 1day","maxUses: 1","currentUses: 1","created: 1766824046128","usedBy: 1242359274458452039","usedAt: 1766824118666"
 "L2LG0LRF","expiry: 1766996846128","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766824046128"
