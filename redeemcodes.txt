@@ -1,5 +1,5 @@
 "SEBU64MK","expiry: 1767084813350","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766825613350"
-"HHEXOPOD","expiry: 1767084813350","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766825613350"
+"HHEXOPOD","expiry: 1767084813350","keyDuration: 1day","maxUses: 1","currentUses: 1","created: 1766825613350","usedBy: 1242359274458452039","usedAt: 1766825628767"
 "I4IFQ6VS","expiry: 1767084813350","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766825613350"
 "NJXQ47XH","expiry: 1767084813350","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766825613350"
 "6DKPTJRV","expiry: 1767084813350","keyDuration: 1day","maxUses: 1","currentUses: 0","created: 1766825613350"
