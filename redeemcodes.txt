@@ -1,4 +1,4 @@
-"GQYM8H57","expiry: 1823924683968","keyDuration: 1000months","maxUses: 1","currentUses: 0","created: 1766900683968"
+"GQYM8H57","expiry: 1823924683968","keyDuration: 1000months","maxUses: 1","currentUses: 1","created: 1766900683968","usedBy: 1030749311086112849","usedAt: 1766901088408"
 "OTVZQCCF","expiry: 1823924683968","keyDuration: 1000months","maxUses: 1","currentUses: 0","created: 1766900683968"
 "94YO4508","expiry: 1823924683968","keyDuration: 1000months","maxUses: 1","currentUses: 1","created: 1766900683968","usedBy: 1030749311086112849","usedAt: 1766901037040"
 "OBPQTANE","expiry: 1823924683968","keyDuration: 1000months","maxUses: 1","currentUses: 0","created: 1766900683968"
