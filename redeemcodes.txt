@@ -10,5 +10,5 @@
 "QZI9CDL2","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
 "NBP3FYT2","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
 "QR2AZBUE","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
-"XMITVY22","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
+"XMITVY22","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 1","created: 1766918808546","usedBy: 1112616642363539478","usedAt: 1766919016774"
 "NNYKIYU0","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
