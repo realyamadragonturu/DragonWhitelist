@@ -7,7 +7,7 @@
 "DK8K59XW","expiry: 1823924683968","keyDuration: 1000months","maxUses: 1","currentUses: 1","created: 1766900683968","usedBy: 1242359274458452039","usedAt: 1766900737277"
 "8WNO4L39","expiry: 1767004498368","keyDuration: 2day","maxUses: 1","currentUses: 1","created: 1766918098368","usedBy: 1112616642363539478","usedAt: 1766918194827"
 "1OE3CTSW","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
-"QZI9CDL2","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 0","created: 1766918808546"
+"QZI9CDL2","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 1","created: 1766918808546","usedBy: 1112616642363539478","usedAt: 1766919498203"
 "NBP3FYT2","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 1","created: 1766918808546","usedBy: 1112616642363539478","usedAt: 1766919227082"
 "QR2AZBUE","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 1","created: 1766918808546","usedBy: 1112616642363539478","usedAt: 1766919189141"
 "XMITVY22","expiry: 1767091608546","keyDuration: 2day","maxUses: 1","currentUses: 1","created: 1766918808546","usedBy: 1112616642363539478","usedAt: 1766919016774"
