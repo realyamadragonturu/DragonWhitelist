@@ -10,7 +10,7 @@
 "97F51NIH","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
 "VMPJASJ1","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
 "AYVWJBS7","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
-"WD87KPYG","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
+"WD87KPYG","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 1","created: 1766985776812","usedBy: 707914897874354177","usedAt: 1766985863776"
 "KWOLZ6RZ","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
 "VE596XET","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
 "CD2HULWW","expiry: 1767072176812","keyDuration: 3day","maxUses: 1","currentUses: 0","created: 1766985776812"
